@@ -1,4 +1,4 @@
-  name: DBNet
+name: DBNet
 base: ['config/icdar2015.yaml']
 arch:
   type: Model
